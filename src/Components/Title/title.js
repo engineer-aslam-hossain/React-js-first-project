@@ -8,7 +8,7 @@ class Title extends Component {
         super(props)
 
         this.state = {
-            title: 'just for learning',
+            title: 'Feeling Awesome After Complete',
             isInput : false,
             
         }
